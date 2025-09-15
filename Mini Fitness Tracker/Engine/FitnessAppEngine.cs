@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mini_Fitness_Tracker.Engine
 {
-    internal class FitnessAppEngin
+    public class FitnessAppEngine
     {
     }
 }
